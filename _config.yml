@@ -1,11 +1,11 @@
-name: 
-author: 
+name: yueyisui's blog
+author: yueyisui
 url: https://yueyisui.github.io
 baseurl: https://yueyisui.github.io
 resume_site: 
 description: 
-github_username: 
-github: 
+github_username: yueyisui
+github: github.com/yueyisui
 plugins: [jekyll-paginate]
 permalink: /:year-:month-:day-:title
 paginate: 12
@@ -17,6 +17,6 @@ comments :
   gitalk :
     clientID : 
     clientSecret : 
-    repo : 
+    repo : https://yueyisui.github.io
     owner : 
     admin : 
